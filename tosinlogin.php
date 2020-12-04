@@ -57,7 +57,7 @@ $tosin->login($_SESSION['user']);
 <body>
 
 
-	<a href="tosinweb.php" style="color:white; text-decoration:none">Home Page</a>
+	<a href="index.php" style="color:white; text-decoration:none">Home Page</a>
 
 	<!-- Admin login form -->
 	<div class="container-fluid">
